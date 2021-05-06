@@ -36,3 +36,5 @@ yarn-error.log*
 .idea/PhamacityEcommerce.iml
 .idea/vcs.xml
 .idea/workspace.xml
+.idea/.gitignore
+.idea/ReactNext.iml
